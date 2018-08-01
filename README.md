@@ -1,6 +1,6 @@
-## Proyect1
+## Project1
 
-Proyect1 use a language invented using JS fundamentals [Fundamentos de javascript](https://platzi.com/clases/fundamentos-javascript) by PLATZI the best plays to learned online.
+Project1 use a language invented using JS fundamentals [Fundamentos de javascript](https://platzi.com/clases/fundamentos-javascript) by PLATZI the best plays to learned online.
 
 ##Language description
 
@@ -10,11 +10,11 @@ Proyect1 use a language invented using JS fundamentals [Fundamentos de javascrip
 -If the original word is a palindrome, none of the before rules apply and it will return the same word in minuscules and capital letters will be interspersed.
 ## Install
 ```
-npm install Proyect1
+npm install Project1
 ```
 
 ## Use
 
 ```
-Import proyect1 form 'Proyect1'
+Import Project1 from 'Project1'
 ```
