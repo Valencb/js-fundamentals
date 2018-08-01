@@ -1,0 +1,33 @@
+{
+  "name": "proyect1",
+  "version": "0.1.0",
+  "description": "lenguaje translator",
+  "main": "dist/src/app.js",
+  "scripts": {
+    "build": "babel src/app.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valencb/Js-practices.git"
+  },
+  "keywords": [
+    "javascript",
+    "fundamentals",
+    "js"
+  ],
+  "author": "Blanca Valencia <valenciablancalun@gmail.com> (https://twitter.com/BLANKMIZAKY)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Valencb/Js-practices/issues"
+  },
+  "homepage": "https://github.com/Valencb/Js-practices#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
